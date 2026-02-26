@@ -1,0 +1,53 @@
+{
+  "sentiment_words": {
+    "happy": 0.01,
+    "joy": 0.02,
+    "excited": 0.03,
+    "wonderful": 0.04,
+    "amazing": 0.05,
+    "great": 0.06,
+    "love": 0.07,
+    "excellent": 0.08,
+    "sad": 0.11,
+    "angry": 0.12,
+    "terrible": 0.13,
+    "awful": 0.14,
+    "bad": 0.15,
+    "hate": 0.16,
+    "horrible": 0.17,
+    "worst": 0.18,
+    "okay": 0.51,
+    "fine": 0.52,
+    "alright": 0.53,
+    "neutral": 0.54
+  },
+  "sentiment_labels": {
+    "positive": 0.9,
+    "negative": 0.1,
+    "neutral": 0.5
+  },
+  "animals": {
+    "cat": 0.01,
+    "dog": 0.02,
+    "bird": 0.03,
+    "cow": 0.04,
+    "duck": 0.05,
+    "horse": 0.06,
+    "pig": 0.07,
+    "sheep": 0.08,
+    "lion": 0.09,
+    "frog": 0.1
+  },
+  "sounds": {
+    "meow": 0.1,
+    "woof": 0.2,
+    "chirp": 0.3,
+    "moo": 0.4,
+    "quack": 0.5,
+    "neigh": 0.6,
+    "oink": 0.7,
+    "baa": 0.8,
+    "roar": 0.9,
+    "ribbit": 1.0
+  }
+}
